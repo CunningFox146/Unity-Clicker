@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6f3ed230-e22c-6d53-8859-e6a51024e0d7": {
+      "ProjectGuid": "6f3ed230-e22c-6d53-8859-e6a51024e0d7",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "c0708e55-94b3-2ef2-a85e-ca1e2af585cd": {
+      "ProjectGuid": "c0708e55-94b3-2ef2-a85e-ca1e2af585cd",
+      "DisplayName": "UniTask.DOTween",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
